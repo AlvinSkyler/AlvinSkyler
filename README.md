@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Alvin Skyler Sun 🧑🏻‍💻<br>A junior web developer who loves 🐈 & ☕️</p>
+<p align="left">I'm Alvin Skyler Sun 🧑🏻‍💻<br>A junior fullstack web developer who loves 🐈 & ☕️</p>
 
 ###
 
